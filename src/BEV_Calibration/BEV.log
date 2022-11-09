@@ -1,0 +1,122 @@
+[16:42:03] {main.py:42} DEBUG - importing images
+[16:42:03] {main.py:53} DEBUG - 6 cameras detected
+[16:43:33] {main.py:42} DEBUG - importing images
+[16:43:33] {main.py:53} DEBUG - 6 cameras detected
+[16:43:51] {main.py:42} DEBUG - importing images
+[16:43:51] {main.py:53} DEBUG - 6 cameras detected
+[16:43:51] {/home/rebeccasmyth/MOLE_alignment_ws/src/BEV_Calibration/src/bev_calibration.py:24} DEBUG - BEV_Camera object initialised
+[16:52:32] {main.py:43} DEBUG - importing images
+[16:52:32] {main.py:54} DEBUG - 6 cameras detected
+[16:52:32] {main.py:57} DEBUG - importing camera information from files
+[16:53:54] {main.py:43} DEBUG - importing images
+[16:53:55] {main.py:54} DEBUG - 6 cameras detected
+[16:53:55] {main.py:57} DEBUG - importing camera information from files
+[16:56:00] {main.py:43} DEBUG - importing images
+[16:56:00] {main.py:54} DEBUG - 6 cameras detected
+[16:56:00] {main.py:57} DEBUG - importing camera information from files
+[16:56:26] {main.py:43} DEBUG - importing images
+[16:56:27] {main.py:54} DEBUG - 6 cameras detected
+[16:56:27] {main.py:57} DEBUG - importing camera information from files
+[16:57:36] {main.py:44} DEBUG - importing images
+[16:57:36] {main.py:55} DEBUG - 6 cameras detected
+[16:57:36] {main.py:58} DEBUG - importing camera information from files
+[16:58:38] {main.py:44} DEBUG - importing images
+[16:58:38] {main.py:55} DEBUG - 6 cameras detected
+[16:58:38] {main.py:58} DEBUG - importing camera information from files
+[16:59:14] {main.py:44} DEBUG - importing images
+[16:59:15] {main.py:55} DEBUG - 6 cameras detected
+[16:59:15] {main.py:58} DEBUG - importing camera information from files
+[17:00:15] {main.py:44} DEBUG - importing images
+[17:00:15] {main.py:55} DEBUG - 6 cameras detected
+[17:00:15] {main.py:58} DEBUG - importing camera information from files
+[17:00:33] {main.py:44} DEBUG - importing images
+[17:00:33] {main.py:55} DEBUG - 6 cameras detected
+[17:00:33] {main.py:58} DEBUG - importing camera information from files
+[17:02:35] {main.py:44} DEBUG - importing images
+[17:02:35] {main.py:55} DEBUG - 6 cameras detected
+[17:02:35] {main.py:58} DEBUG - importing camera information from files
+[17:03:25] {main.py:44} DEBUG - importing images
+[17:03:25] {main.py:55} DEBUG - 6 cameras detected
+[17:03:25] {main.py:58} DEBUG - importing camera information from files
+[17:03:25] {main.py:72} DEBUG - 6 Yamls found
+[17:03:41] {main.py:44} DEBUG - importing images
+[17:03:41] {main.py:55} DEBUG - 6 cameras detected
+[17:03:41] {main.py:58} DEBUG - importing camera information from files
+[17:03:41] {main.py:72} DEBUG - 6 Yamls found
+[17:04:12] {main.py:44} DEBUG - importing images
+[17:04:12] {main.py:55} DEBUG - 6 cameras detected
+[17:04:12] {main.py:58} DEBUG - importing camera information from files
+[17:04:19] {main.py:44} DEBUG - importing images
+[17:04:19] {main.py:55} DEBUG - 6 cameras detected
+[17:04:19] {main.py:58} DEBUG - importing camera information from files
+[17:04:19] {main.py:72} DEBUG - 6 Yamls found
+[17:04:32] {main.py:44} DEBUG - importing images
+[17:04:32] {main.py:55} DEBUG - 6 cameras detected
+[17:04:32] {main.py:58} DEBUG - importing camera information from files
+[17:05:09] {main.py:44} DEBUG - importing images
+[17:05:10] {main.py:55} DEBUG - 6 cameras detected
+[17:05:10] {main.py:58} DEBUG - importing camera information from files
+[17:05:10] {main.py:72} DEBUG - 6 Yamls found
+[17:06:20] {main.py:44} DEBUG - importing images
+[17:06:20] {main.py:56} DEBUG - 6 cameras detected
+[17:06:20] {main.py:59} DEBUG - importing camera information from files
+[17:06:20] {main.py:71} DEBUG - 6 Yamls found
+[17:06:32] {main.py:44} DEBUG - importing images
+[17:06:32] {main.py:56} DEBUG - 6 cameras detected
+[17:06:32] {main.py:59} DEBUG - importing camera information from files
+[17:06:32] {main.py:71} DEBUG - 6 Yamls found
+[17:07:15] {main.py:44} DEBUG - importing images
+[17:07:15] {main.py:56} DEBUG - 6 cameras detected
+[17:07:15] {main.py:59} DEBUG - importing camera information from files
+[17:07:15] {main.py:72} DEBUG - 6 Yamls found
+[17:07:29] {main.py:44} DEBUG - importing images
+[17:07:29] {main.py:56} DEBUG - 6 cameras detected
+[17:07:29] {main.py:59} DEBUG - importing camera information from files
+[17:07:29] {main.py:72} DEBUG - 6 Yamls found
+[17:08:58] {main.py:44} DEBUG - importing images
+[17:08:58] {main.py:56} DEBUG - 6 cameras detected
+[17:08:58] {main.py:59} DEBUG - importing camera information from files
+[17:08:58] {main.py:72} DEBUG - 6 Yamls found
+[17:09:12] {main.py:44} DEBUG - importing images
+[17:09:12] {main.py:56} DEBUG - 6 cameras detected
+[17:09:12] {main.py:59} DEBUG - importing camera information from files
+[17:09:12] {main.py:72} DEBUG - 6 Yamls found
+[17:09:23] {main.py:44} DEBUG - importing images
+[17:09:23] {main.py:56} DEBUG - 6 cameras detected
+[17:09:23] {main.py:59} DEBUG - importing camera information from files
+[17:09:23] {main.py:72} DEBUG - 6 Yamls found
+[17:09:35] {main.py:44} DEBUG - importing images
+[17:09:35] {main.py:56} DEBUG - 6 cameras detected
+[17:09:35] {main.py:59} DEBUG - importing camera information from files
+[17:09:35] {main.py:72} DEBUG - 6 Yamls found
+[09:35:42] {main.py:44} DEBUG - importing images
+[09:35:42] {main.py:56} DEBUG - 6 cameras detected
+[09:35:42] {main.py:59} DEBUG - importing camera information from files
+[09:36:27] {main.py:45} DEBUG - importing images
+[09:36:27] {main.py:57} DEBUG - 6 cameras detected
+[09:36:27] {main.py:60} DEBUG - importing camera information from files
+[09:37:05] {main.py:45} DEBUG - importing images
+[09:37:05] {main.py:57} DEBUG - 6 cameras detected
+[09:37:05] {main.py:60} DEBUG - importing camera information from files
+[09:37:14] {main.py:45} DEBUG - importing images
+[09:37:14] {main.py:57} DEBUG - 6 cameras detected
+[09:37:14] {main.py:60} DEBUG - importing camera information from files
+[09:37:33] {main.py:45} DEBUG - importing images
+[09:37:33] {main.py:57} DEBUG - 6 cameras detected
+[09:37:33] {main.py:60} DEBUG - importing camera information from files
+[09:37:39] {main.py:45} DEBUG - importing images
+[09:37:39] {main.py:57} DEBUG - 6 cameras detected
+[09:37:39] {main.py:60} DEBUG - importing camera information from files
+[09:37:39] {main.py:95} DEBUG - 6 Yamls found
+[09:38:03] {main.py:45} DEBUG - importing images
+[09:38:03] {main.py:57} DEBUG - 6 cameras detected
+[09:38:03] {main.py:60} DEBUG - importing camera information from files
+[09:38:03] {main.py:95} DEBUG - 6 Yamls found
+[09:38:24] {main.py:45} DEBUG - importing images
+[09:38:24] {main.py:57} DEBUG - 6 cameras detected
+[09:38:24] {main.py:60} DEBUG - importing camera information from files
+[09:38:24] {main.py:95} DEBUG - 6 Yamls found
+[09:42:31] {main.py:45} DEBUG - importing images
+[09:42:31] {main.py:60} DEBUG - 6 images/cameras detected
+[09:42:31] {main.py:63} DEBUG - importing camera information from files
+[09:42:31] {main.py:102} DEBUG - 6 Yamls found
